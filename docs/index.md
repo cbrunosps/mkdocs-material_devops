@@ -1,4 +1,4 @@
 ---
 template: overrides/home.html
-title: Devops SPS
+title: Devops SPS.
 ---
