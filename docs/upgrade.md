@@ -16,7 +16,7 @@ Show the currently installed version with:
 pip show mkdocs-material
 ```
 
-## Upgrading from 7.x to 8.x
+## Upgrading from 7.x to 8.x 
 
 ### What's new?
 
